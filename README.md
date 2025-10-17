@@ -1,6 +1,6 @@
 # Math Fox Runner
 
-![Math Fox Runner](Screenshots/end.jpg) 
+![Math Fox Runner](Screenshots/menu.jpg) 
 
 ## 🦊 О проекте
 
